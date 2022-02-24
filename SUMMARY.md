@@ -41,4 +41,4 @@
   * [Choosing the State Structure](general-notes/choosing-the-state-structure.md)
   * [Tips](general-notes/tips.md)
 * [Udemy React & Redux](udemy-react-and-redux/README.md)
-  * [Modern+React+With+Redux.doc](udemy-react-and-redux/modern+react+with+redux.doc.md)
+  * [Modern+React+With+Redux](udemy-react-and-redux/modern+react+with+redux.md)
