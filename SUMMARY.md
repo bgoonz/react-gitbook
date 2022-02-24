@@ -28,36 +28,16 @@
     * [Objects](general-notes/prerequisites/objects.md)
     * [Glossary](general-notes/prerequisites/untitled.md)
   * [index](general-notes/appendix.md)
-
-## MY\_DOCS
-
-## REACT-RESOURCES <a href="#react-md" id="react-md"></a>
-
-## projects
-
-## Prerequisites
-
-## Advanced
-
-## Methodologies
-
-## Interview
-
-* [Question Set #1:](interview/question-set-1.md)
-
-***
-
-* [Website](website.md)
-* [Quick Start](quick-start.md)
-* [Editor Setup](editor-setup.md)
-* [Your First Component](your-first-component.md)
-* [JavaScript in JSX with Curly Braces](javascript-in-jsx-with-curly-braces.md)
-* [Choosing the State Structure](choosing-the-state-structure.md)
-* [Rendering Lists](rendering-lists.md)
-* [Reducer](reducer.md)
-* [Manipulating the DOM with Refs](manipulating-the-dom-with-refs.md)
-* [Passing Data Deeply with Context](passing-data-deeply-with-context.md)
-
-## 📌 Tips
-
-* [Tips](tips/tips.md)
+  * [Question Set #1:](general-notes/question-set-1.md)
+  * [Website](general-notes/website.md)
+  * [Editor Setup](general-notes/editor-setup.md)
+  * [Quick Start](general-notes/quick-start.md)
+  * [JavaScript in JSX with Curly Braces](general-notes/javascript-in-jsx-with-curly-braces.md)
+  * [Your First Component](general-notes/your-first-component.md)
+  * [Reducer](general-notes/reducer.md)
+  * [Passing Data Deeply with Context](general-notes/passing-data-deeply-with-context.md)
+  * [Manipulating the DOM with Refs](general-notes/manipulating-the-dom-with-refs.md)
+  * [Rendering Lists](general-notes/rendering-lists.md)
+  * [Choosing the State Structure](general-notes/choosing-the-state-structure.md)
+  * [Tips](general-notes/tips.md)
+* [Udemy React & Redux](udemy-react-and-redux.md)
